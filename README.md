@@ -1,2 +1,2 @@
 # duplicate-row
-duplicate row in change form 
+duplicate row in django admin dashboard in (change form)
